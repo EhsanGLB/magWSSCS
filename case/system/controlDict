@@ -55,6 +55,10 @@ adjustTimeStep  yes;
 
 maxCo           5;
 
+// ************************************************************************* //
+//Author
+    //Ehsan Golab, SUT. All rights reserved.
+
 InfoSwitches
 {
     writePrecision  6;
